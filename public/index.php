@@ -9,8 +9,8 @@
     <title>Agricola San Francisco</title>
     <!--link href="/img/favicon.png" rel="shortcut icon"-->
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
-    <link href="/css/bulma.css" rel="stylesheet">
-    <link href="/css/app.css" rel="stylesheet">
+    <link href="/css/bulma.397f9a85a299c3c4ac6d.css" rel="stylesheet">
+    <link href="/css/app.397f9a85a299c3c4ac6d.css" rel="stylesheet">
   </head>
   <body>
     <nav class="nav">
