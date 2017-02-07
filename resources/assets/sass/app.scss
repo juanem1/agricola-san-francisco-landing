@@ -21,7 +21,6 @@ body {
 
 .media-content {
   .wrapper {
-    padding-top: 9px;
     strong {
       font-size: 1.5rem;
     }
@@ -30,7 +29,8 @@ body {
     .a2 { color: #ab0511; }
     .a3 { color: #609223; }
 
-    a {
+    a,
+    .phone {
       color: #888;
     }
   }
