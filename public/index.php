@@ -7,7 +7,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="iBox Design Studio. ideasbox.com.ar">
     <title>Agricola San Francisco</title>
-    <link href="/img/favicon.png" rel="shortcut icon">
+    <!--link href="/img/favicon.png" rel="shortcut icon"-->
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
     <link href="/css/bulma.css" rel="stylesheet">
     <link href="/css/app.css" rel="stylesheet">
