@@ -1,3 +1,6 @@
+<?php 
+require '../vendor/autoload.php';
+?>
 <!DOCTYPE html>
 <html>
   <head>
@@ -7,15 +10,15 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="author" content="iBox Design Studio. ideasbox.com.ar">
     <title>Agricola San Francisco</title>
-    <!--link href="/img/favicon.png" rel="shortcut icon"-->
+    <link href="/img/favicon.png" rel="shortcut icon">
     <link href="https://fonts.googleapis.com/css?family=Montserrat" rel="stylesheet">
-    <link href="/css/bulma.397f9a85a299c3c4ac6d.css" rel="stylesheet">
-    <link href="/css/app.397f9a85a299c3c4ac6d.css" rel="stylesheet">
+    <link href="<?= mix('/css/bulma.css', __DIR__) ?>" rel="stylesheet">
+    <link href="<?= mix('/css/app.css', __DIR__) ?>" rel="stylesheet">
   </head>
   <body>
     <nav class="nav">
       <div class="nav-center">
-        <a class="nav-item">
+        <a class="nav-item" href="/">
           <img src="/img/logo.png" alt="Agricola San Francisco logo">
         </a>
       </div>

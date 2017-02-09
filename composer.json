@@ -1,0 +1,12 @@
+{
+    "name": "juane/agricola-san-francisco",
+    "authors": [
+        {
+            "name": "Juan Emilio Turk",
+            "email": "juanemilioturk@gmail.com"
+        }
+    ],
+    "require": {
+        "ibox/mix-function": "~1.0"
+    }
+}
